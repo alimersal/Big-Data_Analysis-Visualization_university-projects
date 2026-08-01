@@ -1,0 +1,20 @@
+# Large data files
+Eartquakes-1990-2023.csv/Eartquakes-1990-2023.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+
+# Temp map files
+*.html
