@@ -1,7 +1,6 @@
 <div align="center">
 
 # 📊 Big Data Analysis & Visualization
-### University Projects Collection
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
