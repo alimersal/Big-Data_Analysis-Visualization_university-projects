@@ -133,5 +133,5 @@ jupyter notebook
 ---
 
 <div align="center">
-  <sub>🎓 University Big Data Lab Projects · Made with Python & Jupyter</sub>
+  <sub> 🎓 University Big Data Lab Projects · Made with Python & Jupyter </sub>
 </div>
