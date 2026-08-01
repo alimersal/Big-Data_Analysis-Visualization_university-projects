@@ -6,7 +6,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-#### A collection of university big data lab projects covering geospatial analysis, machine learning classification, seismic data exploration, and population trend visualization.
+#### A collection of university big data lab projects covering geospatial analysis, machine learning classification, seismic data exploration,
+and population trend visualization.
 
 </div>
 
