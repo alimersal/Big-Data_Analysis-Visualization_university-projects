@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
 *A collection of university big data lab projects covering geospatial analysis, machine learning classification, seismic data exploration, and population trend visualization.*
 
@@ -18,10 +17,10 @@
 
 | # | Project | Type | Tools |
 |---|---------|------|-------|
-| 1 | [🌍 World Countries Visualization](#1--world-countries-visualization) | Geospatial | Folium · Plotly · Matplotlib |
-| 2 | [👥 Countries Population Analysis](#2--countries-population-analysis) | Data Analysis | Folium · Plotly · MongoDB |
-| 3 | [🌊 Water Quality Classification](#3--water-quality-classification) | Machine Learning | Scikit-learn · Pandas |
-| 4 | [🌋 Earthquakes Analysis 1990–2023](#4--earthquakes-analysis-19902023) | Data Exploration | Pandas · Plotly · MongoDB |
+| 1 | [🌍 World Countries Visualization](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/world_country) | Geospatial | Folium · Plotly · Matplotlib |
+| 2 | [👥 Countries Population Analysis](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/countries%20population) | Data Analysis | Folium · Plotly · MongoDB |
+| 3 | [🌊 Water Quality Classification](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Water%20Quality%20Classification%20Project) | Machine Learning | Scikit-learn · Pandas |
+| 4 | [🌋 Earthquakes Analysis 1990–2023](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Eartquakes-1990-2023.csv) | Data Exploration | Pandas · Plotly · MongoDB |
 
 ---
 
