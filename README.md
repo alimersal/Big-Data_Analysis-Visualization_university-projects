@@ -121,7 +121,9 @@ pip install pandas numpy plotly folium pymongo scikit-learn matplotlib jupyter
 jupyter notebook
 ```
 
-> ⚠️ **Note:** Projects 1, 2, and 4 require a running **MongoDB** instance at `localhost:27017` with the relevant collections loaded.
+> ⚠️ **MongoDB Required:** Projects 1, 2, and 4 require a running **MongoDB** instance at `localhost:27017` with the relevant collections loaded.
+
+> 📌 **GitHub Preview Limitation:** Interactive maps (Folium, Plotly) will not render in GitHub's notebook preview. Download and run notebooks locally to view all visualizations.
 
 ---
 
