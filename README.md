@@ -19,7 +19,7 @@ A collection of university big data lab projects covering geospatial analysis, m
 ## 📁 Projects Overview
 
 | # | Project | Type | Tools |
-|---|---------|------|-------|-----------------------|
+|---|---------|------|-------|
 | 1 | [🌍 World Countries Visualization](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/world_country) | Geospatial | Folium · Plotly · Matplotlib |  
 | 2 | [👥 Countries Population Analysis](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/countries%20population) | Data Analysis | Folium · Plotly · MongoDB |  
 | 3 | [🌊 Water Quality Classification](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Water%20Quality%20Classification%20Project) | Machine Learning | Scikit-learn · Pandas | 
