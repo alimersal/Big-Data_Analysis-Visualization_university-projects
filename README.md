@@ -18,16 +18,18 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 📁 Projects Overview
 
-| # | Project | Type | Tools |
-|---|---------|------|-------|
-| 1 | [🌍 World Countries Visualization](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/world_country) | Geospatial | Folium · Plotly · Matplotlib |
-| 2 | [👥 Countries Population Analysis](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/countries%20population) | Data Analysis | Folium · Plotly · MongoDB |
-| 3 | [🌊 Water Quality Classification](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Water%20Quality%20Classification%20Project) | Machine Learning | Scikit-learn · Pandas |
-| 4 | [🌋 Earthquakes Analysis 1990–2023](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Eartquakes-1990-2023.csv) | Data Exploration | Pandas · Plotly · MongoDB |
+| # | Project | Type | Tools | View |
+|---|---------|------|-------|------|
+| 1 | [🌍 World Countries Visualization](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/world_country) | Geospatial | Folium · Plotly · Matplotlib | [📓 nbviewer](https://nbviewer.org/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/world_country/average-latitude-longitude-countries.ipynb) |
+| 2 | [👥 Countries Population Analysis](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/countries%20population) | Data Analysis | Folium · Plotly · MongoDB | [📓 nbviewer](https://nbviewer.org/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/countries%20population/last%20update%20task%20lab%20big%20data.ipynb) |
+| 3 | [🌊 Water Quality Classification](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Water%20Quality%20Classification%20Project) | Machine Learning | Scikit-learn · Pandas | [📓 nbviewer](https://nbviewer.org/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/Water%20Quality%20Classification%20Project/Task.ipynb) |
+| 4 | [🌋 Earthquakes Analysis 1990–2023](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Eartquakes-1990-2023.csv) | Data Exploration | Pandas · Plotly · MongoDB | — |
 
 ---
 
 ## 1 · 🌍 World Countries Visualization
+
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg?style=flat-square&logo=jupyter)](https://nbviewer.org/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/world_country/average-latitude-longitude-countries.ipynb)
 
 **Goal:** Visualize world countries geographically using three different chart types, classifying each country by its position relative to the equator.
 
@@ -46,6 +48,8 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 2 · 👥 Countries Population Analysis
 
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg?style=flat-square&logo=jupyter)](https://nbviewer.org/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/countries%20population/last%20update%20task%20lab%20big%20data.ipynb)
+
 **Goal:** Analyze and visualize global population trends from **1980 to 2050** across all countries.
 
 **What it achieves:**
@@ -62,6 +66,8 @@ A collection of university big data lab projects covering geospatial analysis, m
 ---
 
 ## 3 · 🌊 Water Quality Classification
+
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg?style=flat-square&logo=jupyter)](https://nbviewer.org/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/Water%20Quality%20Classification%20Project/Task.ipynb)
 
 **Goal:** Build and compare three ML classifiers to predict whether a water sample is **safe or unsafe** based on chemical and biological indicators.
 
@@ -123,7 +129,7 @@ jupyter notebook
 
 > ⚠️ **MongoDB Required:** Projects 1, 2, and 4 require a running **MongoDB** instance at `localhost:27017` with the relevant collections loaded.
 
-> 📌 **GitHub Preview Limitation:** Interactive maps (Folium, Plotly) will not render in GitHub's notebook preview. Download and run notebooks locally to view all visualizations.
+> 📌 **View Interactive Maps:** Click the **nbviewer** badges above each project to view notebooks with rendered maps and charts without downloading.
 
 ---
 
