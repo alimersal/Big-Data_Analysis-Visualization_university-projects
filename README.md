@@ -29,9 +29,6 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 1 · 🌍 World Countries Visualization
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/world_country/average-latitude-longitude-countries.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=world_country/average-latitude-longitude-countries.ipynb)
-
 **Goal:** Visualize world countries geographically using three different chart types, classifying each country by its position relative to the equator.
 
 **What it achieves:**
@@ -49,9 +46,6 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 2 · 👥 Countries Population Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/countries%20population/last%20update%20task%20lab%20big%20data.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=countries%20population/last%20update%20task%20lab%20big%20data.ipynb)
-
 **Goal:** Analyze and visualize global population trends from **1980 to 2050** across all countries.
 
 **What it achieves:**
@@ -68,9 +62,6 @@ A collection of university big data lab projects covering geospatial analysis, m
 ---
 
 ## 3 · 🌊 Water Quality Classification
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/Water%20Quality%20Classification%20Project/Task.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=Water%20Quality%20Classification%20Project/Task.ipynb)
 
 **Goal:** Build and compare three ML classifiers to predict whether a water sample is **safe or unsafe** based on chemical and biological indicators.
 
