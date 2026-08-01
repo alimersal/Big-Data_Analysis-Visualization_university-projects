@@ -33,8 +33,8 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 **What it achieves:**
 - 🗺️ Interactive Folium map with clickable markers and country tooltips (name, lat, lon)
-- 📊 Plotly choropleth — countries colored by latitude (Above / On / Below the Equator)
-- 📉 Matplotlib scatter — global country positions with latitude zone bands
+- 📊 Plotly choropleth: countries colored by latitude (Above / On / Below the Equator)
+- 📉 Matplotlib scatter: global country positions with latitude zone bands
 
 **Tools & Libraries:**
 `pandas` · `folium` · `plotly.graph_objects` · `matplotlib` · `pymongo`
