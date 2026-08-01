@@ -18,19 +18,16 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 📁 Projects Overview
 
-| # | Project | Type | Tools | Interactive Notebooks |
-|---|---------|------|-------|-----------------------|
-| 1 | [🌍 World Countries Visualization](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/world_country) | Geospatial | Folium · Plotly · Matplotlib | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/world_country/average-latitude-longitude-countries.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=world_country/average-latitude-longitude-countries.ipynb) |
-| 2 | [👥 Countries Population Analysis](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/countries%20population) | Data Analysis | Folium · Plotly · MongoDB | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/countries%20population/last%20update%20task%20lab%20big%20data.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=countries%20population/last%20update%20task%20lab%20big%20data.ipynb) |
-| 3 | [🌊 Water Quality Classification](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Water%20Quality%20Classification%20Project) | Machine Learning | Scikit-learn · Pandas | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/Water%20Quality%20Classification%20Project/Task.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=Water%20Quality%20Classification%20Project/Task.ipynb) |
-| 4 | [🌋 Earthquakes Analysis 1990–2023](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Eartquakes-1990-2023.csv) | Data Exploration | Pandas · Plotly · MongoDB | — |
+| # | Project | Type | Tools |
+|---|---------|------|-------|
+| 1 | [🌍 World Countries Visualization](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/world_country) | Geospatial | Folium · Plotly · Matplotlib |
+| 2 | [👥 Countries Population Analysis](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/countries%20population) | Data Analysis | Folium · Plotly · MongoDB |
+| 3 | [🌊 Water Quality Classification](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Water%20Quality%20Classification%20Project) | Machine Learning | Scikit-learn · Pandas |
+| 4 | [🌋 Earthquakes Analysis 1990–2023](https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects/tree/master/Eartquakes-1990-2023.csv) | Data Exploration | Pandas · Plotly · MongoDB |
 
 ---
 
 ## 1 · 🌍 World Countries Visualization
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/world_country/average-latitude-longitude-countries.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=world_country/average-latitude-longitude-countries.ipynb)
 
 **Goal:** Visualize world countries geographically using three different chart types, classifying each country by its position relative to the equator.
 
@@ -49,9 +46,6 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 2 · 👥 Countries Population Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/countries%20population/last%20update%20task%20lab%20big%20data.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=countries%20population/last%20update%20task%20lab%20big%20data.ipynb)
-
 **Goal:** Analyze and visualize global population trends from **1980 to 2050** across all countries.
 
 **What it achieves:**
@@ -68,9 +62,6 @@ A collection of university big data lab projects covering geospatial analysis, m
 ---
 
 ## 3 · 🌊 Water Quality Classification
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alimersal/Big-Data_Analysis-Visualization_university-projects/blob/master/Water%20Quality%20Classification%20Project/Task.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alimersal/Big-Data_Analysis-Visualization_university-projects/master?filepath=Water%20Quality%20Classification%20Project/Task.ipynb)
 
 **Goal:** Build and compare three ML classifiers to predict whether a water sample is **safe or unsafe** based on chemical and biological indicators.
 
@@ -119,13 +110,6 @@ A collection of university big data lab projects covering geospatial analysis, m
 
 ## 🚀 Getting Started
 
-### Option 1: Run Online (Recommended)
-Click the **Colab** or **Binder** badges to run notebooks directly in your browser — no installation needed!
-
-- **Google Colab:** Fast, free GPU/TPU, requires Google account
-- **Binder:** No account needed, takes ~1 min to launch
-
-### Option 2: Run Locally
 ```bash
 # Clone the repository
 git clone https://github.com/alimersal/Big-Data_Analysis-Visualization_university-projects.git
@@ -138,6 +122,8 @@ jupyter notebook
 ```
 
 > ⚠️ **MongoDB Required:** Projects 1, 2, and 4 require a running **MongoDB** instance at `localhost:27017` with the relevant collections loaded.
+
+> 📌 **GitHub Preview Limitation:** Interactive maps (Folium, Plotly) will not render in GitHub's notebook preview. Download and run notebooks locally to view all visualizations.
 
 ---
 
